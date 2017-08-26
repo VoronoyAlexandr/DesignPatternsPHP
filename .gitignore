@@ -5,5 +5,5 @@
 _build/
 *.mo
 .vagrant/
-phpunit.xml
 composer.phar
+phpunit.phar
